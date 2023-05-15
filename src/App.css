@@ -1,0 +1,11 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border: 2px solid #55f;
+}
